@@ -1,0 +1,38 @@
+PODS:
+  - APIKit (5.2.0)
+  - Himotoki (3.2.0)
+  - PKHUD (5.3.0)
+  - RxCocoa (6.1.0):
+    - RxRelay (= 6.1.0)
+    - RxSwift (= 6.1.0)
+  - RxRelay (6.1.0):
+    - RxSwift (= 6.1.0)
+  - RxSwift (6.1.0)
+
+DEPENDENCIES:
+  - APIKit
+  - Himotoki (~> 3.1)
+  - PKHUD (~> 5.0)
+  - RxCocoa
+  - RxSwift
+
+SPEC REPOS:
+  trunk:
+    - APIKit
+    - Himotoki
+    - PKHUD
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+
+SPEC CHECKSUMS:
+  APIKit: 577bd933169bd289ad6a3fa77a62394eae761619
+  Himotoki: 2618fc6b939ad6d9b71c52c90fe210f54ea28167
+  PKHUD: 98f3e4bc904b9c916f1c5bb6d765365b5357291b
+  RxCocoa: 5c51f02d562cbd94629f6c26cf0c80fe4ab8d343
+  RxRelay: 483e1a19fad961b41f0b0c0bee506f46c1ae14fe
+  RxSwift: a834e5c538e89eca0cae86f403f4fbf0336786ce
+
+PODFILE CHECKSUM: 1a32a54e390b35bba804b7b8b47bd2fd00bcaa88
+
+COCOAPODS: 1.10.1
